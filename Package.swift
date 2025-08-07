@@ -28,7 +28,7 @@ let package = Package(
         .binaryTarget(
             name: "libcjxlx",
             url: "https://github.com/mgenware/cjxl-ku-darwin/releases/download/0.11.1-binary/libcjxlx.xcframework.zip",
-            checksum: "sha256:d116cf72dd93c9bbaf1d531d696353fee0f4e3c8bc00950b408595694c921a16"
+            checksum: "d116cf72dd93c9bbaf1d531d696353fee0f4e3c8bc00950b408595694c921a16"
         ),
         // .binaryTarget(
         //     name: "libcjxlx",
